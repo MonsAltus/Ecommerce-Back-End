@@ -22,7 +22,7 @@
 
 ## Installation:
 If you want to use or develop this application locally, clone the repository and install dependencies by running `npm i` in your terminal in the root folder.<br>
-The MySQL connection uses a `.env` to hold a password. Create a `.env` file or replace with field in `config/connections.js` with a hardcoded password.<br>
+The MySQL connection uses a `.env` to hold a password. Create a `.env` file or replace with field in `config/connection.js` with a hardcoded password.<br>
 
 ## Usage:
 View 1:<br>
@@ -34,7 +34,7 @@ View 2:<br>
 No tests are currently included.
 
 ## Contributions:
-Technologies used include JavaScript, Node.js, MySQL, Express, and Sequelize.
+Technologies used include JavaScript, Node.js, MySQL2, Express, and Sequelize.
 
 ## Contact:
 Check out my [Github](https://github.com/MonsAltus).<br>
