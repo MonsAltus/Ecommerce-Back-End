@@ -1,5 +1,5 @@
 # Ecommerce-Back-End
-## An application manage an online store's inventory
+## An application to manage an online store's inventory
 
 ![license-badge](https://shields.io/github/license/MonsAltus/Ecommerce-Back-End)
 
