@@ -4,7 +4,7 @@
 ![license-badge](https://shields.io/github/license/MonsAltus/Ecommerce-Back-End)
 
 ## Description:
-
+This is a back end application for an online retailer. Api routes allow GET, POST, PUT, and DELETE requests for the Category, Product, and Tag routes.
 
 ## Table of Contents:
 [User Story](#User-Story)<br>
@@ -22,7 +22,7 @@
 
 ## Installation:
 If you want to use or develop this application locally, clone the repository and install dependencies by running `npm i` in your terminal in the root folder.<br>
-The MySQL connection uses a `.env` to hold a password. Create a `.env` file or replace with field in `config/connection.js` with a hardcoded password.<br>
+The MySQL connection uses a `.env` to hold the user, password, and database name. Create a `.env` file or replace credentials in `config/connection.js` with a hardcoded user, password, and database.<br>
 Run `npm run seed` to seed the database, and `npm start` to start the application.
 
 ## Usage:
