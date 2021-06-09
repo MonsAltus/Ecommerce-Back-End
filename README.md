@@ -26,10 +26,12 @@ The MySQL connection uses a `.env` to hold the user, password, and database name
 Run `npm run seed` to seed the database, and `npm start` to start the application.
 
 ## Usage:
-View 1:<br>
+Starting application:<br>
 ![Image of app functionality](./assets/preview1.png)<br>
-View 2:<br>
+Viewing all Categories:<br>
 ![Image of app functionality](./assets/preview2.png)<br>
+Creating a new Product:<br>
+![Image of app functionality](./assets/preview3.png)<br>
 
 ## Tests:
 No tests are currently included.
