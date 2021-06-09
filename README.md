@@ -23,6 +23,7 @@
 ## Installation:
 If you want to use or develop this application locally, clone the repository and install dependencies by running `npm i` in your terminal in the root folder.<br>
 The MySQL connection uses a `.env` to hold a password. Create a `.env` file or replace with field in `config/connection.js` with a hardcoded password.<br>
+Run `npm run seed` to seed the database, and `npm start` to start the application.
 
 ## Usage:
 View 1:<br>
